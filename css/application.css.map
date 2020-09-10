@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;;;;;;;;;;GAcG",
+    "sources": [
+        "../the_idiot_tourist/app/assets/stylesheets/application.scss"
+    ],
+    "names": [],
+    "file": "application.css"
+}
